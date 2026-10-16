@@ -1,4 +1,5 @@
 # Healthcare AI Workflow Assistant
+https://healthcare-workflow-assistant-z2wqmt5xs8muvgcueqexef.streamlit.app/
 
 A small Streamlit prototype that cuts admin load around clinical notes.
 
